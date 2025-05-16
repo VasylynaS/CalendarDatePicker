@@ -20,7 +20,7 @@ Add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/VasylynaS/CalendarDatePicker.git", from: "1.0.0")
+    .package(url: "https://github.com/VasylynaS/CalendarDatePicker.git", branch(“main”))
 ]
 ```
 
@@ -68,8 +68,11 @@ struct ContentView: View {
 
 ## License
 
-[License]: https://github.com/VasylynaS/CalendarDatePicker/blob/main/LICENSE
+CalendarDatePicker is released under the MIT license. See [LICENSE][License] for details.
+
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+[License]: https://github.com/VasylynaS/CalendarDatePicker/blob/main/LICENSE
