@@ -1,5 +1,11 @@
 # CalendarDatePicker
 
+<!-- GIFs -->
+<p align="center">
+    <img alt="Calendar Example 1" src="https://github.com/VasylynaS/Assets/blob/main/CalendarDatePicker/GIFs/1.gif" width="23%"/>
+    <img alt="Calendar Example 2" src="https://github.com/VasylynaS/Assets/blob/main/CalendarDatePicker/GIFs/2.gif" width="23%"/>
+</p>
+
 A SwiftUI calendar component that provides a modern and flexible date selection interface with support for both single date and date range selection.
 
 ## Features
